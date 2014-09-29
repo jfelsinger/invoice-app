@@ -1,0 +1,8 @@
+{
+    "db": "mongodb://localhost/venm-dev",
+    "staticFiles": "client",
+    "url": "http://127.0.0.1",
+    "app": {
+        "name": "invoice-app - Dev"
+    }
+}
